@@ -1,6 +1,4 @@
 '''
-INF 141 / CS 121
-Project 3
 Complete the Search Engine
 Group 30
 '''
